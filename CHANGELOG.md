@@ -4,6 +4,11 @@ GCHelper adheres to [Semantic Versioning](http://semver.org).
 
 ---
 
+## [0.6](https://github.com/iamthearm/GCHelper/releases/tag/0.6) (04-08-2019)
+
+* Forked by iamthearm
+* Updated project for Swift 5
+
 ## [0.5.1](https://github.com/jackcook/GCHelper/releases/tag/0.5.1) (10-08-2017)
 
 * Updated project for Swift 4

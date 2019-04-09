@@ -1,6 +1,8 @@
 # GCHelper
 
-GCHelper is a Swift implementation for GameKit built off of the GameKitHelper class described in [this tutorial](http://www.raywenderlich.com/60980/game-center-tutorial-how-to-make-a-simple-multiplayer-game-with-sprite-kit-part-1) by [Ali Hafizji](https://twitter.com/Ali_hafizji). If you like this project, feel free to star it or watch it for updates. If you end up using it in one of your apps, I would love to hear about it! Let me know on Twitter [@jackcook36](https://twitter.com/jackcook36).
+GCHelper is a Swift implementation for GameKit built off of the GameKitHelper class described in [this tutorial](http://www.raywenderlich.com/60980/game-center-tutorial-how-to-make-a-simple-multiplayer-game-with-sprite-kit-part-1) by [Ali Hafizji](https://twitter.com/Ali_hafizji). 
+
+Forked from https://github.com/jackcook/GCHelper [@jackcook36](https://twitter.com/jackcook36).
 
 ## Features
 
@@ -18,11 +20,11 @@ You can add GCHelper to your project by adding it to your [Podfile](https://coco
 CocoaPods 0.36 adds support for libraries written in Swift through the use of embedded frameworks. To use GCHelper, it is important that you put the `use_frameworks!` flag in your Podfile.
 
 ```ruby
-source 'https://github.com/CocoaPods/Specs.git'
-platform :ios, '8.0'
+source 'https://github.com/iamthearm/cocoapod-specs.git'
+platform :ios, '9.0'
 use_frameworks!
 
-pod 'GCHelper', '~> 0.5'
+pod 'GCHelper', '~> 0.6'
 ```
 
 ### Manually
